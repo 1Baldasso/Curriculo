@@ -1,6 +1,6 @@
-import info from '../../Assets/PersonInfoPTBR';
 import './styles.css'
-function SideBar() {
+function SideBar(props) {
+    const info = props.info;
     return ( 
     <div className='sidebar column'>
         <img src={info.person.image} className='profile-pic' alt=""></img>
@@ -14,8 +14,7 @@ function SideBar() {
         <strong>E-mail:</strong>
         <p>engs-lucasbaldasso@camporeal.edu.br</p>
         <h3>Hobbies</h3>
-            <p>Jogos Eletrônicos</p>
-            <p>Projetos Pessoais</p>
+        {info.person.hobbies.map(x=><p>{x}</p>)}
     </div> 
 );
 }

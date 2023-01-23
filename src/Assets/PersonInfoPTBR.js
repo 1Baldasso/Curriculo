@@ -1,9 +1,10 @@
 import ProfilePic from './ProfilePic.jpg'
-const info = {
+export const info = {
     person: {
         name: "Lucas Baldasso",
         age: 24,
-        description: `Lucas Baldasso, 24 anos. Atualmente moro em Guarapuava-PR/BR e estou no 5º período de Engenharia de Software. Estou sempre em busca de novos desafios, especialmente os que me levam a desenvolver novas habilidades. Busco desenvolvimento Pessoal e Profissional em todos os ambientes. Tenho uma mente criativa para pensar em novas formas de melhorar e refinar os ambientes que estou e ferramentas com que trabalho. Minha paixão por compartilhar conhecimento faz com que seja uma pessoa que sempre está tentando ajudar colegas a entender a linha de raciocíonio e de ações, mas estou sempre aberto a ouvir sugestões. Sou uma ótima pessoa em ambientes de equipes, sempre dando meu melhor nas atividades que desenvolvo, sem deixar de ajudar colegas que possam ter dúvidas e dificuldades, além de manter sempre uma relação de comunicação muito próxima com pessoas do meu setor, levando a um fluxo de trabalho mais fluido e sintonizado. Sou um entusiasta de desenvolvimento de jogos, começando meu primeiro jogo já no terceiro semestre da faculdade, e melhorando ele através dos anos. Sempre que jogo, presto atenção nos detalhes que levaram a decisão para o desenvolvimento, e o design dos jogos.`,
+        position: "Estudante de Engenharia de Software",
+        description: `Lucas Baldasso, 24 anos. Atualmente moro em Guarapuava-PR/BR e estou no 5º período de Engenharia de Software. Estou sempre em busca de novos desafios, especialmente os que me levam a desenvolver novas habilidades. Busco desenvolvimento Pessoal e Profissional em todos os ambientes. Tenho uma mente criativa para pensar em novas formas de melhorar e refinar os ambientes que estou e ferramentas com que trabalho. Minha paixão por compartilhar conhecimento faz com que seja uma pessoa que sempre tenta ajudar colegas a entender a linha de raciocíonio e de ações, mas estou sempre aberto a ouvir sugestões. Sou uma ótima pessoa em ambientes de equipes, sempre dando meu melhor nas atividades que desenvolvo, sem deixar de ajudar colegas que possam ter dúvidas e dificuldades, além de manter sempre uma relação de comunicação muito próxima com pessoas do meu setor, levando a um fluxo de trabalho mais fluido e sintonizado. Sou um entusiasta de desenvolvimento de jogos, começando meu primeiro jogo já no terceiro semestre da faculdade, e melhorando ele através dos anos. Sempre que jogo, presto atenção nos detalhes que levaram a decisão para o desenvolvimento, e o design dos jogos.`,
         experiences: [
             {
                 name: "CMCorp",
@@ -64,17 +65,21 @@ const info = {
             },
             {
                 name: "HTML",
-                proficiency: 6,
+                proficiency: 7,
                 image: ""
             },
             {
                 name: "CSS",
-                proficiency: 5,
+                proficiency: 7,
                 image: ""
             }
+        ],
+        hobbies:[
+            "Jogos Eletrônicos",
+            "Projetos Pessoais",
+            "Handebol"
         ],
         image: ProfilePic,
         language:"PT-BR"
     }
 }
-export default info;

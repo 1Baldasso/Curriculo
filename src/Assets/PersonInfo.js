@@ -1,9 +1,10 @@
 import ProfilePic from './ProfilePic.jpg'
-const info = {
+export const info = {
     person: {
         name: "Lucas Baldasso",
         age: 24,
-        description: `Lucas Baldasso, 24. Currently I’m living at Guarapuava-PR/BR studying at my 5rth period of Software Engineering. I am always in search of new challenges. Specially those that make me learn new skills and abilities. I eager for Personal and Professional Improvement. I also tend to find new and creative ways to improve the environment I am inserted. My passion for sharing knowledge always make me try to explain my line of thinking and course of action, and I’m always open for suggestions. I’m a great person for team works, making my best at the activities I am responsible for and also trying to understand and discuss the others to help or be aware of any improvements I can do at my work. I am a enthusiast about game development and game design and always try to understand the decisions behind the games I play.`,
+        position:"Undergraduated Software Engineer",
+        description: `Lucas Baldasso, 24. Currently I’m living at Guarapuava-PR/BR studying at my 5th period of Software Engineering. I am always in search of new challenges. Specially those that make me learn new skills and abilities. I eager for Personal and Professional Improvement. I also tend to find new and creative ways to improve the environment I am inserted and the technologies I am working with. My passion for sharing knowledge always make me try to explain my line of thinking and course of action, and I’m always open for suggestions. I’m a great person for team works, making my best at the activities I am responsible for and also trying to understand and discuss the others to help or be aware of any improvements I can do at my work and also helping other with questions or difficulties I have already gone through, creating a smoother workflow and making everyone on the team be extremely synergic. I am a enthusiast about game development making my very first game on the 3rd period of university and improving it from time to time with the knowledge I got on the university, and by myself. I always try to understand everything involved in the development phase and the design principles applied on the games I play.`,
         experiences: [
             {
                 name: "CMCorp",
@@ -64,16 +65,20 @@ const info = {
             },
             {
                 name: "HTML",
-                proficiency: 6,
+                proficiency: 7,
                 image: ""
             },
             {
                 name: "CSS",
-                proficiency: 5,
+                proficiency: 7,
                 image: ""
             }
+        ],
+        hobbies:[
+            "Digital Games",
+            "Personal Projects",
+            "Handball"
         ],
         image: ProfilePic
     }
 }
-export default info;
