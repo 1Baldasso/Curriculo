@@ -1,0 +1,17 @@
+.column
+{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    padding: 0.5%;
+}
+
+h2
+{
+    border: 2px solid #9b7e52;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-radius: 10px;
+    padding:5px;
+}
