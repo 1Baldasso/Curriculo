@@ -1,4 +1,4 @@
-import info from '../../Assets/PersonInfo';
+import info from '../../Assets/PersonInfoPTBR';
 import './styles.css'
 function SideBar() {
     return ( 
@@ -14,7 +14,8 @@ function SideBar() {
         <strong>E-mail:</strong>
         <p>engs-lucasbaldasso@camporeal.edu.br</p>
         <h3>Hobbies</h3>
-        <p>Gaming</p>
+            <p>Jogos Eletrônicos</p>
+            <p>Projetos Pessoais</p>
     </div> 
 );
 }

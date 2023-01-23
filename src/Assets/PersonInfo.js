@@ -15,7 +15,8 @@ const info = {
                 name: "SENAI - Guarapuava",
                 position: "IT Teacher",
                 period: "08/2022 - Current",
-                description: "Curretly I am a teacher for the disciplines: "
+                description: "Curretly I am a teacher for the disciplines: ",
+                disciplines: ["Introdution to Programming","Application Programming","Software Testing"]
             },
             {
                 name: "Protobot",

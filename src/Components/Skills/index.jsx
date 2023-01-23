@@ -1,4 +1,4 @@
-import info from '../../Assets/PersonInfo';
+import info from '../../Assets/PersonInfoPTBR';
 import './styles.css'
 import { Chart,
   RadialLinearScale,

@@ -1,5 +1,6 @@
-import info from '../../Assets/PersonInfo';
+import info from '../../Assets/PersonInfoPTBR';
 import Experience from '../../Components/Experience'
+import Skills from '../Skills';
 import './styles.css'
 
 function MainContent() {
@@ -14,6 +15,7 @@ function MainContent() {
             <Experience object={info.person.experiences[1]}/>
             <Experience object={info.person.experiences[2]} invert={"true"}/>
             <Experience object={info.person.experiences[3]}/>
+            <Skills/>
         </div>
     </> );
 }
