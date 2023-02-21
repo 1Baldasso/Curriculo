@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
   <div id='curriculum'>
-    <Intro language={"EN-US"}/>
+    <Intro language={"PT-BR"}/>
   </div>
   );
 }

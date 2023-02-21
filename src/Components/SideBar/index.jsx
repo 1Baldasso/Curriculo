@@ -5,7 +5,7 @@ function SideBar(props) {
     <div className='sidebar column'>
         <img src={info.person.image} className='profile-pic' alt=""></img>
         <h2>Profile</h2>
-        <p className='justified'>{info.person.description}</p>
+        <p className='normal-text'>{info.person.description}</p>
         <h3>Portfolio</h3>
         <a href={"https://1baldasso-portfolio.vercel.app/"}>https://1baldasso-portfolio.vercel.app/</a>
         <h3>Contact</h3>
@@ -13,8 +13,8 @@ function SideBar(props) {
         <p>+55 42 99802-9837</p>
         <strong>E-mail:</strong>
         <p>engs-lucasbaldasso@camporeal.edu.br</p>
-        <h3>Hobbies</h3>
-        {info.person.hobbies.map(x=><p>{x}</p>)}
+        {/* <h3>Hobbies</h3>
+        {info.person.hobbies.map(x=><p>{x}</p>)} */}
     </div> 
 );
 }

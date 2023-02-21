@@ -34,20 +34,20 @@ function Skills(props) {
       <div id='skills'>
         <div className='column'>
           <div id='skill-logos'> 
-            <div className='column'>
-                <img className='logo' src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="" />
+            <div className='logos'>
+                {/* <img className='logo' src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="" /> */}
                 <img className='logo' src="https://cdn.cdnlogo.com/logos/u/20/unity.svg" alt="" />
                 <img className='logo' src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="" />
-            </div>
-              <div className='column'>
                 <img className='logo' src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="" />
                 <img className='logo' src="https://cdn.cdnlogo.com/logos/r/63/react.svg" alt="" />
-              </div>
+                <img className='logo' src="https://cdn.cdnlogo.com/logos/j/2/java.svg" alt="" />
+                <img className='logo' src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg" alt="" />
+                <img className='logo' src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png" alt="" />
+                <img className='logo' src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" alt="" />
+            </div>
           </div>
         </div>
-          <div id='chart'>
-              <Radar data={data} options={{maintainAspectRatio: true, aspectRatio:1.8}}/>
-          </div>
+          
       </div>
     </>
   );

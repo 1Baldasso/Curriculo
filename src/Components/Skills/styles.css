@@ -27,10 +27,25 @@
     justify-content: space-around;
     width: 100%;
 }
+.logos
+{
+    display: flex;
+    flex-direction: row;
+    gap: 12%;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
 .logo
 {
     width: 3.2vh;
     height: 3.2vh;
+    padding: 5px;
+    border: 0.5px solid #9b7e52;
+    border-left: 0px;
+    border-top: 0px;
+    border-radius: 30%;
+    margin-top: 5%;
 }
 .column
 {
