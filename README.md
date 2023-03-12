@@ -21,6 +21,8 @@ Ao tentar atualizar o meu currículo me deparei com um problema, eu não tinha m
 
 - Após esses passos, no seu terminal, na pasta do projeto, execute o comando
 
+- Para definir a linguagem utilizada no currículo que você vai gerar, a propriedade ```language``` deve ser mudada no arquivo ```App.js```
+
 ```
 npm install
 ```
