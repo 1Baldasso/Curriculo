@@ -5,9 +5,9 @@ Esse projeto foi um estudo de HTML, CSS e React que me deixou muito feliz com a 
 Ao tentar atualizar o meu currículo me deparei com um problema, eu não tinha mais Word e nem o template que utilizei pra fazer o meu primeiro currículo, dessa forma, decidi criar meu próprio currículo em React para treinar e ao mesmo tempo ter um controle maior sobre os componentes do currículo.
 
 ## Como utilizar o Template
-Copie a pasta do projeto para seu computador e modifique da forma que desejar. 
+- Copie a pasta do projeto para seu computador e modifique da forma que desejar. 
 
-Os dados da pessoa (onde você vai trocar meus dados pelos seus) estar em
+- Os dados da pessoa (onde você vai trocar meus dados pelos seus) estar em
 
 
 ```./src/Assets/PersonInfo.js``` para informações em inglês
@@ -15,25 +15,25 @@ Os dados da pessoa (onde você vai trocar meus dados pelos seus) estar em
 
 ```./src/Assets/PersonInfoPTBR.js``` para informações em português
 
-Troque também a imagem substituindo o arquivo ProfilePic.jpg
+- Troque também a imagem substituindo o arquivo ProfilePic.jpg
 
-Dados como link para portfolio e skills devem ser trocados diretamente no código
+- Dados como link para portfolio e skills devem ser trocados diretamente no código
 
-Após esses passos, no seu terminal, na pasta do projeto, execute o comando
+- Após esses passos, no seu terminal, na pasta do projeto, execute o comando
 
 ```
 npm install
 ```
 
-Após isso você esta pronto para executar o projeto com o comando
+- Após isso você esta pronto para executar o projeto com o comando
 
 ```
 npm start
 ```
 
-Ao abrir a página simplesmente clique com o botão direito e em "Imprimir" ou simplesmente utilize o atalho Ctrl+P
+- Ao abrir a página simplesmente clique com o botão direito e em "Imprimir" ou simplesmente utilize o atalho Ctrl+P
 
-Salve o arquivo como PDF (Utilize a opção salvar como PDF, opções Microsoft Print to PDF e outras salvam sem os hiperlinks desejados)
+- Salve o arquivo como PDF (Utilize a opção salvar como PDF, opções Microsoft Print to PDF e outras salvam sem os hiperlinks desejados)
 
 
 ### Disclaimer:
