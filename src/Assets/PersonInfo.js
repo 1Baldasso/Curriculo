@@ -10,14 +10,14 @@ export const info = {
                 name: "CMCorp",
                 position: "Backend Developer",
                 period: "08/2022 - Current",
-                description: "My job involves utilizing Linq to write queries that access the database for the purpose of generating reports, performing calculations, and ensuring proper application of business rules. I also create test cases and conduct unit tests on the code before it is delivered. The test team subsequently conducts integration tests and I am responsible for collaborating closely with them to identify and resolve any issues within the system."
+                description: "I worked by creating queries using Linq to access the database and generate reports, perform calculations, and validate business rules. Throughout this process, I was responsible for ensuring that all relevant information was included in the reports, that the calculations were accurate, and that the business rules were being followed correctly. Additionally, I created test cases to run unit tests on the code prior to delivery. This step was essential to ensure the quality of the final product and prevent future issues. I worked closely with the testing team to conduct integration tests and identify possible inconsistencies, as well as hypotheses for solutions. Throughout the project, I maintained clear and constant communication with the team to ensure that all information was shared and activities were properly aligned. I also remained vigilant for possible process improvements and suggested ideas to optimize teamwork. At the end of the project, I was trained and transferred to the automated testing department where I was trained to use Selenium and XUnit to translate a test project that was written in Java to C#."
             },
             {
                 name: "SENAI - Guarapuava",
                 position: "IT Teacher",
                 period: "08/2022 - Current",
-                description: "Curretly I am a teacher for the disciplines: ",
-                disciplines: ["Introdution to Programming","Application Programming","Software Testing"]
+                description: "I was a teacher of the following courses: Introduction to Programming and Application Programming. I utilized .Net and C# to develop Windows Forms applications and present the concepts of Object-Oriented Programming. I also presented concepts of manual and automated testing using MSUnit, techniques for creating test cases, and concepts of unit, integration, system, and end-to-end testing.",
+                // disciplines: ["Introdution to Programming","Application Programming","Software Testing"]
             },
             {
                 name: "Protobot",

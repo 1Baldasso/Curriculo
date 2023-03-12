@@ -10,14 +10,13 @@ export const info = {
                 name: "CMCorp",
                 position: "Desenvolvedor Backend",
                 period: "08/2022 - Atual",
-                description: "Trabalho criando queries usando Linq para acessar o banco de dados e gerar relatórios, cálculos, e validação das regras de negócio. Também crio casos testes para rodar testes de unidade no código antes de ser entregue. Testes de integração são feitos pela equipe de testes e também é minha responsabilidade, trabalhar em conjunto com o time para identificar possíveis inconsistências e levantar hipóteses de soluções."
+                description: "Trabalhei criando queries utilizando Linq para acessar o banco de dados e gerar relatórios, realizar cálculos e validar as regras de negócio. Durante este processo, fui responsável por garantir que todas as informações relevantes fossem incluídas nos relatórios, que os cálculos fossem precisos e que as regras de negócio estivessem sendo seguidas corretamente. Além disso, criei casos de teste para rodar testes de unidade no código antes de ser entregue. Essa etapa foi essencial para garantir a qualidade do produto final e evitar problemas futuros. Trabalhei em conjunto com a equipe de testes para realizar testes de integração e identificar possíveis inconsistências e levantar hipóteses de soluções. Ao longo do projeto, mantive uma comunicação clara e constante com o time para garantir que todas as informações fossem compartilhadas e que as atividades estivessem devidamente alinhadas. Ao fim do projeto fui treinado e transferido para o setor de testes automatizados onde fui treinado para utilizar Selenium e XUnit para traduzir um projeto de testes que estava escrito em Java para C#"
             },
             {
                 name: "SENAI - Guarapuava",
                 position: "Professor de TI",
                 period: "08/2022 - Atual",
-                description: "Atualmente sou professor das seguintes disciplinas: ",
-                disciplines: ["Introdução a Programação","Programação de Aplicativos","Testes de Software"]
+                description: "Fui professor das seguintes disciplinas: Introdução a Programação Programação de Aplicativos Utilizei .Net e C# para desenvolver aplicações Windows Forms e apresentar os conceitos de Programação Orientada a Objetos Testes de Software Apresentei conceitos de testes manuais e automatizados utilizando MSUnit, técnicas de criação de casos testes e conceitos de testes unitários, de integração, de sistema, e End-to-End"
             },
             {
                 name: "Protobot",

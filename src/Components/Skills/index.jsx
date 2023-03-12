@@ -29,8 +29,8 @@ function Skills(props) {
   };
   return (  
     <>
-      <h2 id='skills-title'>Skills</h2>
-      <p id="english"><strong>English Level: </strong>Advanced</p>
+      {/* <h2 id='skills-title'>Skills</h2>
+      <p id="english"><strong>English Level: </strong>Advanced</p> */}
       <div id='skills'>
         <div className='column'>
           <div id='skill-logos'> 

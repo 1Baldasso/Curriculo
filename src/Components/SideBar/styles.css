@@ -9,7 +9,7 @@
     padding: 15px;
 }
 .profile-pic {
-    height: 20vh;
+    height: 15vh;
     width: auto;
     border-radius: 1.5rem;
     box-shadow: 10px 10px 10px #000000;
@@ -23,4 +23,12 @@
 .normal-text
 {
     text-align: left;
+}
+
+.row
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
