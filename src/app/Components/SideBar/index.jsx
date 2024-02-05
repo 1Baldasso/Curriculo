@@ -18,6 +18,7 @@ function SideBar(props) {
           <a
             href="https://wa.me/5542998029837"
             style={{ textDecoration: "none", color: "black" }}
+            target="_blank"
           >
             <p>+55 42 99802-9837</p>
           </a>
@@ -30,8 +31,10 @@ function SideBar(props) {
       {/*i want the description to use \n as <br/>*/}
       <p className="normal-text">{info.person.description}</p>
       <h3>Portfolio</h3>
-      <a href={"https://1baldasso.dev.br/"}>https://1baldasso.dev.br/</a>
-      <a href={"https://github.com/1baldasso/"}>
+      <a href={"https://1baldasso.dev.br/"} target="_blank">
+        https://1baldasso.dev.br/
+      </a>
+      <a href={"https://github.com/1baldasso/"} target="_blank">
         https://github.com/1baldasso/
       </a>
       {/* <h3>Hobbies</h3>
@@ -42,7 +45,7 @@ function SideBar(props) {
           {info.person.experiences
             .filter((e) => e.reference)
             .map((e) => (
-              <a key={e.name} href={e.reference}>
+              <a key={e.name} href={e.reference} target="_blank">
                 {e.name}
               </a>
             ))}

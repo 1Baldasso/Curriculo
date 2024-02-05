@@ -9,7 +9,7 @@ export default function Home() {
         {language === "PT-BR"
           ? "Você pode encontrar o código fonte deste currículo "
           : "You can find the source code of this resume "}
-        <a href="https://github.com/1baldasso/Curriculo">
+        <a href="https://github.com/1baldasso/Curriculo" target="_blank">
           {language === "PT-BR" ? "aqui" : "here"}
         </a>
       </p>
@@ -20,7 +20,7 @@ export default function Home() {
 
         {language === "PT-BR" ? (
           <a
-            href="https://github.com/1Baldasso/Curriculo/blob/master/src/Assets/PersonInfoPTBR.md"
+            href="https://github.com/1Baldasso/Curriculo/blob/master/src/Assets/PersonInfoPTBR.md#experi%C3%AAncias"
             target="_blank"
           >
             aqui
