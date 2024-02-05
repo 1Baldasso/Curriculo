@@ -1,0 +1,44 @@
+.maincontent
+{
+    width: 100%;
+    background-color: aqua;
+}
+#header
+{
+    align-self: center;
+    font-size: 48px;
+    margin-block-end: 0;
+}
+#subheader
+{
+    align-self: center;
+    font-size: 24px;
+    width: 80%;
+    text-align: center;
+    font-style: oblique;    
+}
+#chart
+{
+    align-self: center;
+}
+#skill-logos
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: initial;
+    justify-content: space-evenly;
+}
+.logo
+{
+    width: 3vh;
+    height: 3vh;
+}
+#contact-info{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: .1vh;
+}

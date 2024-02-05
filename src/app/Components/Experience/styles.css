@@ -1,0 +1,31 @@
+
+.experience
+{
+    flex-direction: column;
+    border: 2px solid #9b7e52;
+    padding: 5px;
+    border-bottom-width: 0px;
+    gap: 5%;
+    width: 95%;
+}
+p
+{
+    margin:0;
+} 
+.position
+{
+    font-size: medium;
+}
+.period
+{
+    font-size: smaller;
+}
+.normal-order
+{
+    border-right-width: 0px;
+}
+.invert-order
+{
+
+    border-left-width: 0px;
+}
