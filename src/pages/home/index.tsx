@@ -16,7 +16,7 @@ export default function Home() {
       <p>
         {language === "PT-BR"
           ? "Você pode encontrar o mais informações detalhadas das experiências "
-          : "You can find more detailed information about the experiences"}
+          : "You can find more detailed information about the experiences "}
 
         {language === "PT-BR" ? (
           <a

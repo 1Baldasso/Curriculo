@@ -136,6 +136,16 @@ export const info = {
         proficiency: 6,
         image: "",
       },
+      {
+        name: "Rust",
+        proficiency: 6,
+        image: "",
+      },
+      {
+        name: "Docker",
+        proficiency: 5,
+        image: "",
+      },
     ],
     hobbies: ["Jogos Eletrônicos", "Projetos Pessoais", "Handebol"],
     mobileNumber: "+55 42 99802-9837",
