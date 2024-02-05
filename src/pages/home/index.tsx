@@ -27,7 +27,7 @@ export default function Home() {
           </a>
         ) : (
           <a
-            href="https://github.com/1Baldasso/Curriculo/blob/master/src/Assets/PersonInfo.md"
+            href="https://github.com/1Baldasso/Curriculo/blob/master/src/Assets/PersonInfo.md#experiences"
             target="_blank"
           >
             here

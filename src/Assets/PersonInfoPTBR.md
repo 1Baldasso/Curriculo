@@ -16,6 +16,8 @@ Solução eficaz de problemas com um sólido entendimento dos princípios e melh
 
 Estou aberto a novas ideias dos outros e sou um bom jogador de equipe, sempre fazendo o máximo para ajudar meus colegas a resolver problemas. Gosto de orientar colegas menos experientes em termos de processos de pensamento envolvidos no design e implementação de software. Sou um bom comunicador e trabalho efetivamente com o resto da equipe para alcançar metas de maneira oportuna.
 
+### Experiências
+
 <details>
 <summary><strong>Coding Solutions</strong> Desenvolvedor Fullstack <small>11/23 - Atual</small></summary>
 Na Coding Solutions, estou trabalhando em um produto que tem como objetivo fornecer uma solução para bancos e registros, no qual aprimoramos e facilitamos o processo de validação de IDs, assinaturas e documentos dos usuários. Minhas principais responsabilidades incluem o desenvolvimento de backend usando C#, .NET Core e SQL Server, bem como o desenvolvimento de frontend usando ReactJS, ReduxJS e Typescript. Também trabalho com o Azure, gerenciando e conectando serviços, e fornecendo abstrações fáceis de usar no nível da aplicação. Sou também responsável por integrar a solução com APIs externas para validação de documentos, assinaturas, notificações e mais. Trabalhamos com Scrum e utilizamos o Azure DevOps como ferramenta de gerenciamento de projetos e o GitHub como sistema de controle de versão. Além disso, atuo como membro valioso da equipe, constantemente buscando melhorar o fluxo de trabalho e a arquitetura da solução, bem como incentivando o desempenho máximo dos meus colegas de equipe.
