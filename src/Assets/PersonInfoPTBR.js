@@ -3,13 +3,8 @@ export const info = {
   person: {
     name: "Lucas Baldasso",
     age: 25,
-    position: "Desenvolvedor backend",
-    description: `Um desenvolvedor full-stack com considerável experiência em desenvolvimento de backend, em todas as fases do ciclo de vida do desenvolvimento de software. Pronto para fornecer as melhores soluções para o seu negócio. Atualmente, estou no 7º semestre do meu curso de Engenharia de Software. Sou apaixonado por tecnologia e pelo desenvolvimento de soluções que atendam às necessidades do usuário. Minha principal tecnologia é C# e .NET Core, mas sou altamente adaptável e habilidoso em várias linguagens de programação e frameworks de backend.
-        Também tenho proficiência em desenvolvimento frontend, com um sólido entendimento de ReactJS, ReduxJS, Typescript, assim como ASP.NET e Blazor. Sou um aprendiz rápido e estou sempre ansioso para expandir meu conhecimento e conjunto de habilidades. Também tenho experiência em trabalhar com o Azure, gerenciando e conectando serviços, e fornecendo abstrações fáceis de usar no nível da aplicação.
-        Meu principal objetivo é fornecer soluções bem estruturadas e escaláveis, com foco em desempenho, manutenibilidade, escalabilidade e segurança. Criar uma base de código simples e abstraída para aprimorar a experiência de desenvolvimento dos colegas menos experientes. Sou um profissional proativo e orientado a resultados, com uma forte capacidade de trabalhar sob pressão e cumprir prazos apertados.
-        Solução eficaz de problemas com um sólido entendimento dos princípios e melhores práticas de desenvolvimento de software. Capacidade de traduzir os requisitos do cliente em tarefas de desenvolvimento realizáveis, garantindo uma ponte perfeita entre visão e execução. Experiência comprovada na elaboração de roteiros de desenvolvimento claros e concisos que se alinham às expectativas do cliente e aos objetivos do projeto.
-        Estou aberto a novas ideias dos outros e sou um bom jogador de equipe, sempre fazendo o máximo para ajudar meus colegas a resolver problemas. Gosto de orientar colegas menos experientes em termos de processos de pensamento envolvidos no design e implementação de software. Sou um bom comunicador e trabalho efetivamente com o resto da equipe para alcançar metas de maneira oportuna.
-        `,
+    position: "Desenvolvedor Fullstack",
+    description: `Desenvolvedor Fullstack com foco em desenvolvimento backend. Atua como desenvolvedor de sistemas há três anos, tendo, ao longo da carreira, desenvolvido diversos projetos desde sua fase de concepção e levantamento de requisitos até sua fase de manutenção e evolução. Com capacidade de gerenciamento de projetos, tem participação significativa e recorrente em reuniões com o cliente, além da criação e atribuição de tarefas com base nessas reuniões e nas validações de requisitos. Engenheiro de Software formado pelo Centro Universitário Campo Real em dezembro de 2024, participou do programa de monitoria acadêmica ao longo de todo o curso. Desenvolveu uma iniciação científica na área de Programação Orientada a Objetos, Padrão de Desenvolvimento Pub-Sub e Banco de Dados, tendo como TCC uma CLI que transcreve estruturas JSON em SQL. Além disso, durante o curso, desenvolveu um sistema de gerenciamento de farmácias como atividade de extensão. Possui alta capacidade de trabalho em equipe, empatia e facilidade em transmitir conhecimento.`,
     experiences: [
       {
         name: "Coding Solutions",
@@ -18,19 +13,37 @@ export const info = {
         description:
           "Na Coding Solutions, estou trabalhando em um produto que tem como objetivo fornecer uma solução para bancos e registros, no qual aprimoramos e facilitamos o processo de validação de IDs, assinaturas e documentos dos usuários. Minhas principais responsabilidades incluem o desenvolvimento de backend usando C#, .NET Core e SQL Server, bem como o desenvolvimento de frontend usando ReactJS, ReduxJS e Typescript. Também trabalho com o Azure, gerenciando e conectando serviços, e fornecendo abstrações fáceis de usar no nível da aplicação. Sou também responsável por integrar a solução com APIs externas para validação de documentos, assinaturas, notificações e mais. Trabalhamos com Scrum e utilizamos o Azure DevOps como ferramenta de gerenciamento de projetos e o GitHub como sistema de controle de versão. Além disso, atuo como membro valioso da equipe, constantemente buscando melhorar o fluxo de trabalho e a arquitetura da solução, incentivando o desempenho máximo dos meus colegas de equipe.",
         listWay: [
+          "Reuniões com clientes e levantamento de requisitos.",
+          "Alocado em dois projetos distintos, um como desenvolvedor principal, outro como líder de equipe.",
           "Desenvolvimento de backend usando C#, .NET Core e SQL Server.",
           "Desenvolvimento de frontend usando ReactJS, ReduxJS e Typescript.",
-          "Participação na fase de P&D do projeto, conduzindo pesquisas e testes para encontrar as melhores soluções para os desafios que enfrentamos.",
           "Integração com APIs externas para validação de documentos, assinaturas, notificações e mais.",
-          "Gerenciamento e conexão de serviços no Azure.",
-          "Fornecimento de abstrações fáceis de usar no nível da aplicação.",
-          "Trabalho com Scrum e uso do Azure DevOps como ferramenta de gerenciamento de projetos e GitHub como sistema de controle de versão.",
+          "Desenvolvimento de Templates e confecção de documentos complexos.",
+          "Desenvolvimento de sistemas multi-tenant com permissões personalizadas.",
+          "Personalização de formulários internos para utilização por clientes.",
+          "Desenvolvimento e manutenção de migrations.",
+          "DevOps e Gerênciamento de Pipelines",
+        ],
+      },
+      {
+        name: "Sixtech Systems",
+        position: "Desenvolvedor Fullstack",
+        period: "04/2024 - Atual",
+        description:
+          "Na Coding Solutions, estou trabalhando em um produto que tem como objetivo fornecer uma solução para bancos e registros, no qual aprimoramos e facilitamos o processo de validação de IDs, assinaturas e documentos dos usuários. Minhas principais responsabilidades incluem o desenvolvimento de backend usando C#, .NET Core e SQL Server, bem como o desenvolvimento de frontend usando ReactJS, ReduxJS e Typescript. Também trabalho com o Azure, gerenciando e conectando serviços, e fornecendo abstrações fáceis de usar no nível da aplicação. Sou também responsável por integrar a solução com APIs externas para validação de documentos, assinaturas, notificações e mais. Trabalhamos com Scrum e utilizamos o Azure DevOps como ferramenta de gerenciamento de projetos e o GitHub como sistema de controle de versão. Além disso, atuo como membro valioso da equipe, constantemente buscando melhorar o fluxo de trabalho e a arquitetura da solução, incentivando o desempenho máximo dos meus colegas de equipe.",
+        listWay: [
+          "Desenvolvimento de backend usando C#, .NET Core e PostgreSQL.",
+          "Desenvolvimento de frontend usando Angular e Typescript.",
+          "Reuniões de levantamento de requisitos com o cliente.",
+          "Desenvolvimento de sistema de logs de alterações de entidades",
+          "Edição e impressão de documentos baseados em templates",
+          "Desenvolvimento e manutenção de migrations.",
         ],
       },
       {
         name: "Aidy Health",
         position: "Engenheiro de Software Principal",
-        period: "03/2023 - Atual",
+        period: "03/2023 - 01/2024",
         description: `Sou Supervisor de Arquitetura de Software na Aidy, uma Startup onde utilizamos IA para aprimorar a experiência do paciente e melhorar a área da saúde. Minhas principais responsabilidades incluem o desenvolvimento do backend da solução usando Azure Cognitive Services, Azure OpenAI, C# e .NET para fornecer uma API para o frontend. Sou responsável pela parte de R&D do projeto, onde realizo pesquisas e testes para encontrar as melhores soluções para os problemas que enfrentamos. Utilizando tecnologias como WebSockets, WebHooks e SignalR. Também atuo como membro valioso da equipe, buscando constantemente melhorar o fluxo de trabalho e a arquitetura da solução, além de incentivar o melhor desempenho dos colegas de equipe.`,
         reference: `https://drive.google.com/file/d/1Ci5v2EYiq7-erv-63DGh0fojHpDlZFDf/view?usp=drive_link`,
         listWay: [
@@ -50,7 +63,7 @@ export const info = {
         listWay: [
           "Trabalhei com o Azure DevOps para gerenciar o projeto.",
           "Utilizei o Git como sistema de controle de versão.",
-          "Manuseei arquivos usando C# e .NET Core.",
+          "Utilizei Syncfusion para manusear arquivos usando C# e .NET Core.",
           "Ajudei a melhorar a arquitetura da solução.",
           "Desenvolvi novos recursos usando C# e .NET Core.",
           "Desenvolvi testes automatizados usando C# e NUnit.",
@@ -84,13 +97,20 @@ export const info = {
         period: "2021 - 2024",
         description: "",
         achievements: [
-          "Estou no meu quinto semestre como monitor acadêmico em disciplinas como Programação de Sistemas Computacionais I e II, Jogos Digitais I e II, e Desenvolvimento Web/Mobile II e III.",
-          "Conduzi um projeto de pesquisa sobre Programação Orientada a Objetos, que foi apresentado no SAPIEN, uma Semana de Iniciação Científica Acadêmica. O projeto recebeu o título de 'TÉCNICAS E FERRAMENTAS DE ENSINO DE PROGRAMAÇÃO ORIENTADA A OBJETOS'.",
-          "Estudei e desenvolvi uma ferramenta de disparo de eventos por meio de reflection, que foi apresentada no Sapien na categoria Inovação.",
+          "MONITORIA ACADÊMICA NOS ANOS 2022, 2023, 2024/1",
+          "TÉCNICAS E FERRAMENTAS PARA ENSINO DE PROGRAMAÇÃO ORIENTADA A OBJETOS. (IC)",
+          "FERRAMENTA PARA DISPARO DE EVENTOS. (IC)",
+          "ESTUDO DE APLICAÇÃO JSON COMO UMA FERRAMENTA DE MODELAGEM DE DADOS. (IC)",
+          "JTSQL: UMA CLI PARA TRANSPILAÇÃO DE MOLDELOS DE DADOS JSON PARA INSTRUÇÕES DDL EM SQL. (TCC)",
         ],
       },
     ],
     skills: [
+      {
+        name: "Inglês Fluente",
+        proficiency: 10,
+        image: "",
+      },
       {
         name: "C#",
         proficiency: 9,
@@ -104,11 +124,6 @@ export const info = {
       {
         name: ".Net",
         proficiency: 8,
-        image: "",
-      },
-      {
-        name: "Unity",
-        proficiency: 7,
         image: "",
       },
       {
@@ -128,16 +143,6 @@ export const info = {
       },
       {
         name: "DDD",
-        proficiency: 6,
-        image: "",
-      },
-      {
-        name: "Arquitetura de Software",
-        proficiency: 6,
-        image: "",
-      },
-      {
-        name: "Rust",
         proficiency: 6,
         image: "",
       },

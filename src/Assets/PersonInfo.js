@@ -4,11 +4,7 @@ export const info = {
     name: "Lucas Baldasso",
     age: 25,
     position: "Fullstack Developer",
-    description: `A full-stack developer with considerable experience in backend development, in all parts of the software development life cycle. Ready to provide the best solutions for your business. Currently, I am in the 7th semester of my Software Engineering Course. I am passionate about technology and developing solutions that meet user needs. My main stack is C# and .NET Core, but I am highly adaptable and skilled in various backend programming languages and frameworks.
-    I am also proficient in frontend development, with a strong understanding of ReactJS, ReduxJS, Typescript, as well as ASP.NET and Blazor. I am a quick learner and am always eager to expand my knowledge and skill set. I am also experienced in working with Azure, managing and connecting services, and providing easy-to-use abstractions at the application level.
-    My main goal is to provide well structured and scalable solutions, with a focus on performance, maintainability, scalability, and security. Creating a simple and abstracted codebase to enhance Dev Experience of least experienced colleagues. I am a proactive and results-driven professional, with a strong ability to work under pressure and meet tight deadlines. 
-    Effective problem-solver with a strong understanding of software development principles and best practices. Ability to translate client requirements into actionable development tasks, ensuring a seamless bridge between vision and execution. Proven expertise in crafting clear and concise development roadmaps that align with client expectations and project goals.
-    I am open to new ideas from others and am a good team player, always doing my utmost to assist my colleagues in solving problems. I enjoy coaching less experienced colleagues in terms of the thought processes that go into software design and implementation. I am a good communicator and work effectively with the rest of the team to achieve targets in a timely manner.`,
+    description: `Fullstack Developer with a focus on backend development. Has been working as a system developer for three years, having developed several projects throughout his career, from the conception and requirements gathering phase to the maintenance and evolution phase. With project management skills, he plays a significant and recurring role in meetings with clients and in the creation and assignment of tasks based on those meetings and requirement validations. A Software Engineer graduate from Centro Universitário Campo Real in December 2024, he participated in the academic monitoring program throughout the entire course. He conducted scientific research in Object-Oriented Programming, the Pub-Sub development pattern, and Databases, with his final project being a CLI that converts JSON structures into SQL. He also developed a pharmacy management system as an extension activity during the course. Highly capable of teamwork, empathetic, and skilled at sharing knowledge.`,
     experiences: [
       {
         name: "Coding Solutions",
@@ -17,13 +13,31 @@ export const info = {
         description:
           "At Coding Solutions I am working in a product which aims to provide a solution for banks and registry in which we enhance and ease the process of validating users IDs, signatures and documents. My main responsibilities include backend development using C#, .NET Core, and SQL Server, as well as frontend development using ReactJS, ReduxJS and Typescript. I also work with Azure, managing and connecting services, and providing easy to use abstractions at application level. I am also responsible of integrating the solution with external APIs for document validation, signatures, notifications and more. We work with Scrum and use Azure DevOps as project management tool and GitHub as version control system. I also serve as a valuable team member, constantly striving to improve the workflow and solution architecture, as well as encouraging peak performance from my team colleagues.",
         listWay: [
-          "Backend development using C#, .NET Core, and SQL Server.",
-          "Frontend development using ReactJS, ReduxJS and Typescript.",
-          "Take part in the R&D part of the project, conducting research and tests to find the best solutions for the challenges we face.",
-          "Integration with external APIs for document validation, signatures, notifications and more.",
-          "Manage and connect services in Azure.",
-          "Provide easy to use abstractions at application level.",
-          "Work with Scrum and use Azure DevOps as project management tool and GitHub as version control system.",
+          "Meetings with clients and requirements gathering",
+          "Assigned to two distinct projects, one as the lead developer, the other as the team leader",
+          "Backend development using C#, .NET Core, and SQL Server",
+          "Frontend development using ReactJS, ReduxJS, and Typescript",
+          "Integration with external APIs for document validation, signatures, notifications, and more",
+          "Development of templates and creation of complex documents",
+          "Development of multi-tenant systems with custom permissions",
+          "Customization of internal forms for client use",
+          "Development and maintenance of migrations",
+          "DevOps and Pipeline Management",
+        ],
+      },
+      {
+        name: "Sixtech Systems",
+        position: "Desenvolvedor Fullstack",
+        period: "04/2024 - Atual",
+        description:
+          "Na Coding Solutions, estou trabalhando em um produto que tem como objetivo fornecer uma solução para bancos e registros, no qual aprimoramos e facilitamos o processo de validação de IDs, assinaturas e documentos dos usuários. Minhas principais responsabilidades incluem o desenvolvimento de backend usando C#, .NET Core e SQL Server, bem como o desenvolvimento de frontend usando ReactJS, ReduxJS e Typescript. Também trabalho com o Azure, gerenciando e conectando serviços, e fornecendo abstrações fáceis de usar no nível da aplicação. Sou também responsável por integrar a solução com APIs externas para validação de documentos, assinaturas, notificações e mais. Trabalhamos com Scrum e utilizamos o Azure DevOps como ferramenta de gerenciamento de projetos e o GitHub como sistema de controle de versão. Além disso, atuo como membro valioso da equipe, constantemente buscando melhorar o fluxo de trabalho e a arquitetura da solução, incentivando o desempenho máximo dos meus colegas de equipe.",
+        listWay: [
+          "Backend development using C#, .NET Core, and PostgreSQL.",
+          "Frontend development using Angular and TypeScript.",
+          "Requirement gathering meetings with the client.",
+          "Development of an entity change log system.",
+          "Editing and printing documents based on templates.",
+          "Development and maintenance of migrations.",
         ],
       },
       {
